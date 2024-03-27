@@ -1,0 +1,32 @@
+.testimonial-container {
+    background-color: #282a39;
+    color: #fff;
+    text-align: center;
+    padding: 3rem;
+  }
+  #testimonial {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  #author {
+    font-size: 1.5rem;
+    font-style: italic;
+  }
+  #prev-btn, #next-btn {
+    background-color:  rgba(245, 123, 86, 1);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  #prev-btn:hover, #next-btn:hover {
+    background-color:  rgba(245, 123, 86, 1);
+  }
+  
